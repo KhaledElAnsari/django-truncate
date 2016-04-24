@@ -1,0 +1,7 @@
+dist/*
+*.egg-info/*
+test.pypirc
+*.pyc
+
+dist/
+*.egg-info/
