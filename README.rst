@@ -13,6 +13,7 @@ Installation
 After you move to your django project main directory follow these simple steps
 
 1. In your terminal/command line run the following command::
+
         pip install django-truncate
 
 2. Add "django-truncate" to your **INSTALLED_APPS** in the settings.py file::
