@@ -49,6 +49,8 @@ Compatibility
 
 This simple project works with Django 1.7, 1.8 & 1.9 using Python 2 (2.7) or Python 3 (3.4 & 3.5).
 
+For the moment this project is using the Django ORM so django-truncate will work with all of the supported Databases by the Django ORM
+
 License
 -------
 
