@@ -34,7 +34,7 @@ There is two simple options that will make it easier for you to truncate your ta
 
         python manage.py truncate --apps appone apptwo
 
-2. **--models**: After you enter the app name enter the Model(s) name(s) If you want you don't want to truncate all of the tables::
+2. **--models**: After you enter the app name enter the Model(s) name(s) If you don't want to truncate all of the tables::
 
         python manage.py truncate --apps appone --models Model3
 
@@ -47,7 +47,7 @@ Remember you can always see the instructions by running::
 Compatibility
 -------------
 
-This simple project works with Django 1.7, 1.8 & 1.9 using Python 2 (2.7) or Python 3 (3.4 & 3.5).
+This project works with Django 1.7, 1.8 and 1.9 using Python 2 (2.7) or Python 3 (3.4 and 3.5).
 
 For the moment this project is using the Django ORM so django-truncate will work with all of the supported Databases by the Django ORM
 
